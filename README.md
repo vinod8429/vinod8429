@@ -1,5 +1,4 @@
 # Hi, I'm Vinod 👋  
-CS @ SRM University.
 
 Some people build apps. I build experiences.
 
